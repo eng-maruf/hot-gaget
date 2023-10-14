@@ -12,6 +12,7 @@
     border: none;
     padding: 10px;
     border-radius: 7px;
+    
 } 
 .bf-only{
     background-image: url("hot-gadgets/bg-2.png");
@@ -30,4 +31,42 @@
 .deco{
     text-decoration: none;
     color: black;
+}
+.col{
+    align-items: center;
+}
+.pale-order-png{
+    width: 300px;
+    height: 300px;
+}
+.bag-felx{
+    display: flex;
+    flex-wrap: warp;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.test{
+    padding: 10px 10px;
+    border: none;
+    box-shadow: 10px 10px 20px gray;
+}
+.marjin{
+    margin-bottom: 100px;
+}
+.sado{
+    border: none;
+    border-radius: 10px;
+    padding: 10px 10px;
+    background-color: whitesmoke;
+    text-align: center;
+}
+.bag{
+    margin-top: 50%;
+}
+.cata{
+   text-decoration: underline red;
+}
+footer{
+    text-align: center;
 }
