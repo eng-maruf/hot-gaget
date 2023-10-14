@@ -1,0 +1,20 @@
+.container{
+    margin-bottom: 100px;
+}
+.carousel{
+    background-image: url("hot-gadgets/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: 65%;
+}
+.by-button{
+    color: white;
+    background-color: black;
+    border: none;
+    padding: 10px;
+    border-radius: 7px;
+} 
+.bf-only{
+    background-image: url("hot-gadgets/bg-2.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
