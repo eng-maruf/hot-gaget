@@ -18,3 +18,16 @@
     background-repeat: no-repeat;
     background-position: left;
 }
+.card{
+    border: none;
+    box-shadow: 10px 20px 20px gray;
+}
+#see-phone{
+
+    text-align: right;
+    
+}
+.deco{
+    text-decoration: none;
+    color: black;
+}
